@@ -16,7 +16,7 @@
 ```
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 ├── index.html           # Main frontend interface
 ├── styles.css           # Styling for the UI
